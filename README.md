@@ -1,1 +1,1 @@
-# Python_Crash_Course
+Cartella contenente i progetti creati in Python
