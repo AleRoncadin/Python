@@ -1,0 +1,1 @@
+"""Permette di bloccare le richieste"""
